@@ -9,3 +9,6 @@ Alur Fitur Login:
 Fitur Tambahan:
 1. Login dengan Google dan Facebook
 2. Mengubah tampilan halaman Login
+3. Membuat tampilan responsive
+4. Menambah fitur Logout
+5. Menambah fitur Login Admin
